@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm [Kamlesh Kumar](https://www.linkedin.com/in/kamlesh-kumar-1905/) 👋
 
-<!--
-**kkjha00007/kkjha00007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Technical Architect | Kafka Enthusiast | Azure Expert**
 
-Here are some ideas to get you started:
+Experienced integration architect and community leader with a passion for Microsoft Azure and Kafka. 📈 Over 1 million blog views, international community leader, Microsoft Q&A moderator, and mentor in the tech community. I love sharing my knowledge and contributing to the tech ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter](https://img.shields.io/twitter/follow/kkjha00007?style=social)](https://twitter.com/kkjha00007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-kumar-1905/)
+
+## 🚀 About Me
+
+- 🌐 Check out my blog at [biztalktechie.com](https://biztalktechie.com/)
+- 🏅 **MVP**: [C Sharp Corner MVP](https://www.c-sharpcorner.com/members/kamlesh-kumar32) | [DZone MVB](https://dzone.com/users/3197602/kkjha00007.html)
+- 🎖️ [Microsoft Q&A Moderator](https://learn.microsoft.com/en-us/users/kamleshkumar/)
+
+## 📊 My GitHub Stats
+
+| My GitHub Statistics | Top Languages |
+| --- | --- |
+| ![Kamlesh's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kkjha00007&show_icons=true&count_private=true&theme=radical) | ![Kamlesh's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kkjha00007&layout=compact&theme=radical) |
+
+[![Kamlesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkjha00007&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📚 Other Content
+
+- 🌍 [Blog Community](https://biztalktechie.com/community/)
+- 📺 [YouTube Channel](https://www.youtube.com/channel/UC9tG_G1StzMFpffY_XyZIdw?sub_confirmation=1)
+
+## 📬 Get in Touch
+
+- 📧 [Email](mailto:KKumar@biztalktechie.com)
