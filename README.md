@@ -14,12 +14,13 @@ Experienced integration architect and community leader with a passion for Micros
 - 🎖️ [Microsoft Q&A Moderator](https://learn.microsoft.com/en-us/users/kamleshkumar/)
 
 ## 📊 My GitHub Stats
-
+<!---
+Need to check why api is not working
 | My GitHub Statistics | Top Languages |
 | --- | --- |
-| ![Kamlesh's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kkjha00007&show_icons=true&count_private=true&theme=radical) | ![Kamlesh's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kkjha00007&layout=compact&theme=radical) |
-
-[![Kamlesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkjha00007&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
+| ![Kamlesh's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kkjha00007&show_icons=true&count_private=true&theme=Gradient) | ![Kamlesh's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kkjha00007&layout=compact&theme=radical) |
+-->
+![Kamlesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkjha00007&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 ## 📚 Other Content
 
